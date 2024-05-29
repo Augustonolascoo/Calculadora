@@ -1,0 +1,37 @@
+.but{
+    background-color: rgb(22, 21, 21);
+    border-radius: 10px;
+    border-color: rgb(238, 79, 5);
+    color: rgb(238, 79, 5);
+}
+
+.butao{
+    background-color: rgb(22, 21, 21);
+    border-radius: 10px;
+    border-color: rgb(47, 219, 90);
+    color:  rgb(47, 219, 90);
+}
+
+.num{
+    background-color:rgb(22, 21, 21);
+    border-radius: 10px;
+    border-color:white;
+    color: white;
+}
+
+.c{
+    background-color: rgb(22, 21, 21);
+    border-radius: 10px;
+    border-color: red;
+    color: red;
+}
+
+.div{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 750px;
+    padding: 20px;
+    width: 300px;
+    background-color: rgb(53, 54, 54);
+    border-radius: 10px;
+}
